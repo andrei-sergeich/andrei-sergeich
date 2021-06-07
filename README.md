@@ -1,6 +1,6 @@
  :octocat:
 - 👋 Hi, I’m Andrey
-- 👀 I’m interested in all about programming
+- 👀  I’m interested in everything related to programming
 - 🌱 I’m currently learning in School 21
 
 
