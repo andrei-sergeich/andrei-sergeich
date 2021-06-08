@@ -1,7 +1,7 @@
  :octocat:
 - 👋 Hi, I’m Andrey
 - 👀  I’m interested in everything related to programming
-- 🌱 I’m currently learning in School 21
+- 🌱 I’m currently studying at Programming School 21
 
 
 <!---
