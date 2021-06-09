@@ -1,5 +1,5 @@
  :octocat:
-- 👋 Hi, I’m Andrey
+- 👋 Hi, I’m Andrei
 - 👀  I’m interested in everything related to programming
 - 🌱 I’m currently studying at Programming School 21
 
